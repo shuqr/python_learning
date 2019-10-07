@@ -1,0 +1,5 @@
+#! /usr/bin/python
+# -*- coding:UTF-8 -*-
+
+str = raw_input("输入内容：")
+print "你输入的内容：", str

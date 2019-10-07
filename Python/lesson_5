@@ -1,0 +1,7 @@
+#! /usr/bin/python
+# -*- coding:UTF-8 -*-
+import calendar
+
+cal = calendar.month(2019,4)
+print "以下输入2019年4月份的日历："
+print cal
